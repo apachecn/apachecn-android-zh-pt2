@@ -28,6 +28,15 @@
 +   [安卓意图学习手册](docs/learn-andr-intent/README.md)
 +   [精通安卓应用开发](docs/master-andr-app-dev/README.md)
 +   [Robotium 安卓自动化测试](docs/robo-auto-test-andr/README.md)
++   [用于应用开发的安卓 4 新特性](docs/andr4-new-feat-app-dev/SUMMARY.md)
++   [安卓应用开发秘籍](docs/andr-app-dev-cb/SUMMARY.md)
++   [安卓安全秘籍](docs/andr-sec-cb/SUMMARY.md)
++   [安卓 UI 开发](docs/andr-ui-dev/SUMMARY.md)
++   [Corona SDK 移动游戏初学者指南](docs/corona-sdk-mobi-game-dev-begin-guide/SUMMARY.md)
++   [安卓 Flash 开发秘籍](docs/flash-dev-andr-cb/SUMMARY.md)
++   [安卓片段管理即时操作指南](docs/ins-andr-frag-mgt-howto/SUMMARY.md)
++   [安卓画布学习手册](docs/learn-andr-canvas/SUMMARY.md)
++   [安卓语音应用开发](docs/voice-app-dev-andr/SUMMARY.md)
 
 ## 贡献指南
 
