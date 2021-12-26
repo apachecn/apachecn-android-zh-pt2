@@ -19,6 +19,15 @@
 +   [探索安卓安全改进](docs/expl-se-andr/SUMMARY.md)
 +   [安卓应用测试学习手册](docs/learn-andr-app-test/SUMMARY.md)
 +   [Xamarin 4.x 跨平台应用开发](docs/xamarin-4x-xplat-app-dev/SUMMARY.md)
++   [AndEngine 安卓游戏开发秘籍](docs/andengine-andr-game-dev-cb/SUMMARY.md)
++   [安卓 6 基础知识](docs/andr6-essense/README.md)
++   [安卓应用安全基础知识](docs/andr-app-sec-essense/README.md)
++   [Eclipse ADT 教程](docs/andr-dev-tool-eclipse/README.md)
++   [UDOO 入门手册](docs/get-start-udoo/README.md)
++   [Spring 安卓即时入门](docs/ins-spring-andr-start/README.md)
++   [安卓意图学习手册](docs/learn-andr-intent/README.md)
++   [精通安卓应用开发](docs/master-andr-app-dev/README.md)
++   [Robotium 安卓自动化测试](docs/robo-auto-test-andr/README.md)
 
 ## 贡献指南
 
