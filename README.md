@@ -26,6 +26,7 @@
 无需翻译：
 
 Android Studio 2 Essentail
+Unity Android Game Development by Example Beginner's Guide
 -->
 
 本项目需要校对，欢迎大家提交 Pull Request。
