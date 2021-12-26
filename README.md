@@ -8,6 +8,18 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [安卓数据库编程](docs/andr-db-prog/SUMMARY.md)
++   [安卓设计模式最佳实践](docs/andr-design-ptn-best-prac/SUMMARY.md)
++   [安卓高性能编程](docs/andr-hiperf-prog/SUMMARY.md)
++   [安卓 NDK 秘籍](docs/andr-ndk-cb/SUMMARY.md)
++   [安卓 NDK 游戏开发秘籍](docs/andr-ndk-game-dev-cb/SUMMARY.md)
++   [构建安卓 UI 自定义视图](docs/build-andr-ui-cus-view/SUMMARY.md)
++   [探索安卓安全改进](docs/expl-se-andr/SUMMARY.md)
++   [安卓应用测试学习手册](docs/learn-andr-app-test/SUMMARY.md)
++   [Xamarin 4.x 跨平台应用开发](docs/xamarin-4x-xplat-app-dev/SUMMARY.md)
+
 ## 贡献指南
 
 <!--
